@@ -144,18 +144,3 @@ REVOKE문은 DCL임(data control language)
 
 
 
-
-
-
-
-
-
-
-분산 데이터 시스템 - 
-쉘 - 
-나선형 모델 - 
-
-Inspection - 점검
-Portability - 이식성: 다양한 하드웨어 환경에서도 쉽게 수정가능
-Cardinality - 행
-Degree - 열
