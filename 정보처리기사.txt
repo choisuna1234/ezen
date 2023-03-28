@@ -140,7 +140,7 @@ REVOKE문은 DCL임(data control language)
 로킹 단위가 크면 병행성 수준이 낮아진다
 
 관계 대수 = 절차적
-
+ㅡㅡ
 
 
 
